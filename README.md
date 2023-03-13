@@ -1,8 +1,8 @@
 ### Olá, eu sou Higor Santos 0 👋
 
-- 🌱 Estou atualmente estudando com linguagem em C e estudando linguagem Python na Cisco.
+- 🌱 Estou atualmente estudando com linguagem em C, html-css-Js, Java, SQL, na Cisco.
 - 🤔 Procuro colaborar com projetos back end
-- 📫 Contate-me no email: nascimentohigor125@gmail.com
+- 📫 Contate-me no email: higordevjs@gmail.com
 - 😄 Pronouns: Ele
 - 😎 Busco me tornar um programador Back-End 
 - 👀 Tenho interesse também na área de segurança da informação
