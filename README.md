@@ -1,6 +1,6 @@
 ### Olá, eu sou Higor Santos 0 👋
 
-- 🌱 Estou atualmente estudando com linguagem em C, html-css-Js, Java, SQL, Python, Php.
+- 🌱 Estou atualmente estudando com linguagem em C, html-css-JavaScript, Java, SQL, Python, Php.
 - 🤔 Procuro colaborar com projetos back end
 - 📫 Contate-me no email: higordevjs@gmail.com
 - 😄 Pronouns: Ele
