@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: higordevjs@gmail.com
 - 😄 Pronouns: Ele
 - 😎 Busco me tornar um programador Back-End 
-- 👀 Interesse: Desenvolvedor Back-End, Segurança da Informação.
+- 👀 Interesse: Desenvolvedor Back-End.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HigorSantos0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor nascimento github stats" /> 
