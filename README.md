@@ -1,12 +1,10 @@
-<img align="right" height="590em" src=https://raw.githubusercontent.com/gist/HigorSantos0/84c8cf1887defe8eafda6fe04948ff00/raw/d50b9d7575435fba8845163e83cc93c10a716fac/githubcard.svg/>
+<img align="right" height="500em" src=https://raw.githubusercontent.com/gist/HigorSantos0/84c8cf1887defe8eafda6fe04948ff00/raw/d50b9d7575435fba8845163e83cc93c10a716fac/githubcard.svg/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Higor Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HigorSantos0&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Back End 
 
 - 💬 Ask me about **C, Java, SQL**
-
-<!--
 
 <br><br>
 
@@ -30,7 +28,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=HigorSantos0&show_icons=true&theme=vision-friendly-dark" alt="HigorSantos0's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantos0&layout=compact&theme=vision-friendly-dark" alt="HigorSantos0's most languages"/>
 </p>
--->
 
 <br><br>
 
