@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Back End 
 
-- 💬 Ask me about **C, Java, SQL**
+- 💬 Ask me about **C, Java, Spring Bot, JavaScript, SQL**
 
 <br><br>
 
