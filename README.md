@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Higor Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HigorSantos0&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Back End 
+- 🔥  IT Project Analyst 
 
-- 💬 Ask me about **C, Java, Spring Bot, JavaScript, SQL**
+- 💬 Ask me about **Alteryx | Python | SQL | Power BI**
 
 <br><br>
 
