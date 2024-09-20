@@ -4,7 +4,7 @@
 
 - 🔥 IT Project Analystd 
 
-- 💬 Ask me about **C, Java, Spring Bot, JavaScript, SQL**
+- 💬 Ask me about **Alteryx | Python | SQL | Power BI**
 
 <br><br>
 
