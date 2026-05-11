@@ -29,14 +29,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-[![Higor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorSantos0&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/HigorSantos0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantos0&layout=compact&theme=vision-friendly-dark)](https://github.com/HigorSantos0)
-
-<br>
-
-### 🐍 Minhas Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/HigorSantos0/HigorSantos0/output/github-contribution-grid-snake.svg)
