@@ -9,8 +9,12 @@
 
 # 🎓 Certificações em Progresso:
 - 🏆 **AWS Certified Cloud Practitioner (CLF-C02)** - Em andamento pela Escola da Nuvem
-- 🔒 **TryHackMe Learning Paths:** SOC, Red Team e Blue Team
+- 🔒 **TryHackMe Learning Paths:**
+  - SOC (Security Operations Center)
+  - Red Team
+  - Blue Team
 - 📜 **CompTIA Security+** - Planejado
+- ☁️ Outras certificações em Cloud & Security
 
 # 🔨 Projetos Destacados:
 ### 📎 [Safe Link](https://github.com/HigorSantos0/safe-link)
