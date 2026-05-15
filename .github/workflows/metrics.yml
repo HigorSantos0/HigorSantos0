@@ -2,14 +2,16 @@ name: Atualizar Métricas do Perfil
 
 on:
   schedule:
-    - cron: "0 * * * *" # Atualiza automaticamente a cada hora
-  workflow_dispatch: # Permite que execute manualmente quando quiser
+    - cron: "0 * * * *" # Atualiza a cada hora
+  workflow_dispatch: # Permite rodar manualmente
   push:
     branches: ["main"]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ESSA LINHA DÁ A PERMISSÃO DE ESCRITA
     steps:
       - name: Gerador de Métricas de Engenharia
         uses: lowlighter/metrics@latest
