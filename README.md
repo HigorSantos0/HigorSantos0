@@ -22,14 +22,8 @@ Projeto de segurança focado em proteção de links e dados sensíveis.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HigorSantos0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&v=1)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HigorSantos0&theme=dracula&hide_border=false&v=1)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantos0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HigorSantos0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊 Dashboard de Operações
+![Métricas de Engenharia](github-metrics.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
