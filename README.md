@@ -23,7 +23,7 @@ Projeto de segurança focado em proteção de links e dados sensíveis.
 ---
 
 # 📊 Dashboard de Operações
-![Métricas de Engenharia](github-metrics.svg)
+![Métricas de Engenharia](metrics_renders/github-metrics.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
