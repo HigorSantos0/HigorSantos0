@@ -27,9 +27,8 @@ Desenvolvimento e manutenção da API para a plataforma Lacrei Saúde.
 Ferramenta para monitoramento contínuo e análise de conectividade de rede.
 
 ---
-
 # 📊 Dashboard de Operações
-![Métricas de Engenharia](metrics_renders/github-metrics.svg)
+![Métricas de Engenharia](https://raw.githubusercontent.com/HigorSantos0/HigorSantos0/output/metrics_renders/github-metrics.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
