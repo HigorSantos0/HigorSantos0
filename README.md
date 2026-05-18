@@ -20,6 +20,12 @@
 ### 📎 [Safe Link](https://github.com/HigorSantos0/safe-link)
 Projeto de segurança focado em proteção de links e dados sensíveis.
 
+### 🏥 [Lacrei Saúde API](https://github.com/HigorSantos0/lacrei-saude-api)
+Desenvolvimento e manutenção da API para a plataforma Lacrei Saúde.
+
+### 📡 [Ping Monitor](https://github.com/HigorSantos0/ping-monitor)
+Ferramenta para monitoramento contínuo e análise de conectividade de rede.
+
 ---
 
 # 📊 Dashboard de Operações
